@@ -1,6 +1,7 @@
 # LiRIO: Multi-Modal, GNSS-Light Localisation for Off-Highway Vehicles
 
 > **Team FusionForge** | Tata Elxsi TELIPORT Season 3 — Case Study on Off-Highway Vehicles
+>
 > *Gulshan Choudhary • Lavanya Bhatnagar • Sibasish Barik*
 
 ---
